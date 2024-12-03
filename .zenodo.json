@@ -1,0 +1,37 @@
+{
+    "upload_type": "dataset",
+    "publication_date": "TODO-TEMPLATE",
+    "title": "TODO-TEMPLATE",
+    "creators": [
+        {
+            "name": "TODO-TEMPLATE",
+            "affiliation": "U.S. Department of Commerce, National Telecommunications and Information Administration, Institute for Telecommunication Sciences",
+            "orcid": "TODO-TEMPLATE"
+        }
+    ],
+    "description": "TODO-TEMPLATE. Make this the same as the abstract.",
+    "access_right": "open",
+    "related_identifiers": [
+        {
+            "identifier": "https://github.com/NTIA/TODO-TEMPLATE",
+            "relation": "isSupplementTo",
+            "resource_type": "software"
+        },
+        {
+            "identifier": "https://github.com/NTIA/TODO-TEMPLATE-dotnet",
+            "relation": "isSupplementTo",
+            "resource_type": "software"
+        },
+        {
+            "identifier": "https://github.com/NTIA/TODO-TEMPLATE-matlab",
+            "relation": "isSupplementTo",
+            "resource_type": "software"
+        },
+        {
+            "identifier": "https://github.com/NTIA/TODO-TEMPLATE-python",
+            "relation": "isSupplementTo",
+            "resource_type": "software"
+        }
+    ],
+    "version": "TODO-TEMPLATE"
+}
