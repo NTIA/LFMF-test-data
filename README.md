@@ -23,20 +23,20 @@ The software tested using this dataset can be found using the links below.
 - [NTIA/LFMF-matlab](https://github.com/NTIA/LFMF-matlab)
 - [NTIA/LFMF-python](https://github.com/NTIA/LFMF-python)
 
-## Disclaimer ##
+## Data Disclaimer ##
 
-This dataset is not intended for any usage other than running unit tests against
+This dataset is not intended for any use other than running unit tests against
 the software in the repositories listed above. Data contained in this repository
 should not be expected to reflect, for example, real-world radio propagation links.
 In some instances, intentionally invalid data are provided to ensure that errors
 are properly handled in the software under test.
 
-## Data Versioning ##
+## Dataset Versioning ##
 
-The version of this dataset is tracked with a simple, single-digit version number
+The versioning of this dataset is tracked with a single-digit version number
 in the format `v1`. This version number indicates the software versions for which
 this test dataset is valid. For example, `v1` of this repository contains the dataset
-used to test `v1.x` of the base C++ library, and `v1.x.y` of the .NET, MATLAB, and Python
+used to test `v1.x` of the base C++ library and `v1.x.y` of the .NET, MATLAB®, and Python®
 wrappers.
 
 ## Dataset Contents ##
@@ -45,6 +45,17 @@ wrappers.
   the `LFMF` function. A header row indicates the column names, and each subsequent row
   represents a single test case.
 
+## License ##
+
+MATLAB is a registered trademark of The MathWorks, Inc. See
+[mathworks.com/trademarks](https://mathworks.com/trademarks) for a list of additional trademarks.
+
+"Python" and the Python logos are trademarks or registered trademarks of the Python Software Foundation, used by the National Telecommunications and Information Administration with permission from the Foundation.
+
 ## Contact ##
 
 For technical questions, contact <code@ntia.gov>.
+
+## Disclaimer ##
+
+Certain commercial equipment, instruments, or materials are identified in this project were used for the convenience of the developers. In no case does such identification imply recommendation or endorsement by the National Telecommunications and Information Administration, nor does it imply that the material or equipment identified is necessarily the best available for the purpose.
