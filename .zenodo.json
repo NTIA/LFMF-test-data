@@ -7,6 +7,10 @@
             "name": "Romaniello, Anthony W.",
             "affiliation": "U.S. Department of Commerce, National Telecommunications and Information Administration, Institute for Telecommunication Sciences",
             "orcid": "0000-0001-8437-6504"
+        },
+        {
+            "name": "Kozma Jr., William",
+            "affiliation": "U.S. Department of Commerce, National Telecommunications and Information Administration, Institute for Telecommunication Sciences",
         }
     ],
     "description": "This repository contains a dataset used to test the NTIA/ITS implementations of the Low Frequency / Medium Frequency (LF/MF) Propagation Model.",
