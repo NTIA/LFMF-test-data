@@ -2,7 +2,7 @@
 
 **Project Name:** NTIA/OSM Research and Development
 
-**Software Name:** TODO-TEMPLATE
+**Software Name:** Test Data for the NTIA/ITS Low Frequency / Medium Frequency (LF/MF) Propagation Model
 
 The project identified above, which is contained within the repository this
 document is stored in, has met the following criteria for public release:
@@ -16,7 +16,7 @@ mark next to each attests that the criterion has been met.
     all template or placeholder code has been removed.
 2. [ ] The README.md file has passed editorial review by the ITS Publications Office.
 3. [ ] The project complies with the ITS Code Style Guide or an appropriate style
-uide as agreed to by the sponsor, project lead, or Supervising Division Chief.
+guide as agreed to by the sponsor, project lead, or Supervising Division Chief.
 4. [ ] Approved disclaimer and licensing language has been included.
 
 In order to complete this approval, please create a new branch, upload and commit
@@ -24,5 +24,5 @@ your version of this Markdown document to that branch, and then create a pull re
 for that branch. The following must log in to GitHub and approve that pull request
 before the pull request can be merged and this repo made public:
 
-* Project Lead: TODO-TEMPLATE
-* Supervising Division Chief or Release Authority: TODO-TEMPLATE
+* Project Lead: Brian Lain
+* Supervising Division Chief or Release Authority: Chris Anderson
