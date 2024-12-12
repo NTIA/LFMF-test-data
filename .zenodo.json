@@ -1,37 +1,42 @@
 {
     "upload_type": "dataset",
-    "publication_date": "TODO-TEMPLATE",
-    "title": "TODO-TEMPLATE",
+    "publication_date": "2024-12-13",
+    "title": "Test Data for the NTIA/ITS Implementations of the Low Frequency / Medium Frequency Propagation Model",
     "creators": [
         {
-            "name": "TODO-TEMPLATE",
+            "name": "Romaniello, Anthony W.",
             "affiliation": "U.S. Department of Commerce, National Telecommunications and Information Administration, Institute for Telecommunication Sciences",
-            "orcid": "TODO-TEMPLATE"
+            "orcid": "0000-0001-8437-6504"
+        },
+        {
+            "name": "Kozma Jr., William",
+            "affiliation": "U.S. Department of Commerce, National Telecommunications and Information Administration, Institute for Telecommunication Sciences",
+            "orcid": "0000-0002-7417-4009"
         }
     ],
-    "description": "TODO-TEMPLATE. Make this the same as the abstract.",
+    "description": "This repository contains a dataset used to test the NTIA/ITS implementations of the Low Frequency / Medium Frequency (LF/MF) Propagation Model.",
     "access_right": "open",
     "related_identifiers": [
         {
-            "identifier": "https://github.com/NTIA/TODO-TEMPLATE",
+            "identifier": "https://github.com/NTIA/LFMF",
             "relation": "isSupplementTo",
             "resource_type": "software"
         },
         {
-            "identifier": "https://github.com/NTIA/TODO-TEMPLATE-dotnet",
+            "identifier": "https://github.com/NTIA/LFMF-dotnet",
             "relation": "isSupplementTo",
             "resource_type": "software"
         },
         {
-            "identifier": "https://github.com/NTIA/TODO-TEMPLATE-matlab",
+            "identifier": "https://github.com/NTIA/LFMF-matlab",
             "relation": "isSupplementTo",
             "resource_type": "software"
         },
         {
-            "identifier": "https://github.com/NTIA/TODO-TEMPLATE-python",
+            "identifier": "https://github.com/NTIA/LFMF-python",
             "relation": "isSupplementTo",
             "resource_type": "software"
         }
     ],
-    "version": "TODO-TEMPLATE"
+    "version": "1"
 }
