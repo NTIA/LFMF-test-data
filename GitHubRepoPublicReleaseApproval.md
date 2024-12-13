@@ -16,7 +16,7 @@ mark next to each attests that the criterion has been met.
     all template or placeholder code has been removed.
 2. [x]  The README.md file has passed editorial review by the ITS Publications Office.
 3. [x] The project complies with the ITS Code Style Guide or an appropriate style
-guide as agreed to by the sponsor, project lead, or Supervising Division Chief.
+guide as agreed to by the sponsor, Project Lead, or Supervising Division Chief.
 4. [x] Approved disclaimer and licensing language has been included.
 
 In order to complete this approval, please create a new branch, upload and commit
