@@ -36,7 +36,7 @@ are properly handled in the software under test.
 The versioning of this dataset is tracked with a single-digit version number
 in the format `v1`. This version number indicates the software versions for which
 this test dataset is valid. For example, `v1` of this repository contains the dataset
-used to test `v1.x` of the base C++ library and `v1.x.y` of the .NET, MATLAB®, and Python®
+used to test `v1.x` of the base C++ library and `v1.x.y` of the .NET, MATLAB&reg;, and Python&reg;
 wrappers.
 
 ## Dataset Contents ##
